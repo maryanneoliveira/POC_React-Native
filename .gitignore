@@ -1,1 +1,17 @@
-node_modules
+# Dependências
+node_modules/
+
+# Arquivos temporários do Expo
+.expo/
+.expo-shared/
+
+# Arquivos de compilação
+dist/
+web-build/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs
+*.log
